@@ -1,4 +1,4 @@
-# Learnin Dart and Flutter
+# Learning Dart and Flutter
 
 ## Dart Playground
 * [DartPad](http://dartpad.dev): Web-based Dart playground
