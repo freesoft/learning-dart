@@ -4,7 +4,7 @@
 * [DartPad](http://dartpad.dev): Web-based Dart playground
 
 # Repo / LIbs
-* [PubDev](https://pub.dev) : Official Flutter package rep, think it as maven repo for Java or NPM for Node.
+* [PubDev](https://pub.dev) : Official Flutter package rep, think it as Maven repo for Java, NPM for Node, or PIP for Python.
 
 ## Flutter Lectures
 * [Flutter Beginner on NomadCoders](https://nomadcoders.co/flutter-for-beginners/) EN/KR, highly recommended for who wants step by step to learn Flutter
