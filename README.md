@@ -12,6 +12,10 @@
 * [코딩셰프의 Flutter 순한맛](https://edu.goorm.io/learn/lecture/21167/코딩셰프의-flutter-순한맛)
 
 ## Youtube for lecture/design source
+* https://www.youtube.com/@flutterdev : official Flutter channel
+* https://www.youtube.com/@FlutterMapp/videos : introduces Flutter widgets
+* https://www.youtube.com/@TheFlutterWay/ : focus on making apps/clone
+* https://www.youtube.com/@dbestech/videos
 * https://www.youtube.com/c/ATNSTUDIO/
 
 ## Etc
