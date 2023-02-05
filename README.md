@@ -17,6 +17,7 @@
 * https://www.youtube.com/@TheFlutterWay/ : focus on making apps/clone
 * https://www.youtube.com/@dbestech/videos
 * https://www.youtube.com/c/ATNSTUDIO/
+* https://www.youtube.com/watch?v=P1XzbpeD2GY : Flutter Forward 2023 talking about "Top cloud development tips for Flutter developers". You might have some idea for what to do with your concerns with caching, persistence layer, etc using GCP.
 
 ## Etc
 * When having "Failed to install android-sdk: "java.lang.NoClassDefFoundError: javax/xml/bind/annotation/XmlSchema"" error while installing Fultter(with fultter doctor)<br/>
