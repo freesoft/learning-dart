@@ -6,6 +6,9 @@
 # Repo / LIbs
 * [PubDev](https://pub.dev) : Official Flutter package rep, think it as Maven repo for Java, NPM for Node, or PIP for Python.
 
+# Flutter Widgets
+* https://docs.flutter.dev/development/ui/widgets/material : check entire page and see what widgets are ready for you.
+
 ## Flutter Lectures
 * [Flutter Beginner on NomadCoders](https://nomadcoders.co/flutter-for-beginners/) EN/KR, highly recommended for who wants step by step to learn Flutter
 * [[무작정 플러터] Flutter + Firebase 넷플릭스UI 클론 코딩](https://edu.goorm.io/lecture/19172/무작정-플러터-flutter-firebase-넷플릭스ui-클론-코딩)
