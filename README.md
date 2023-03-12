@@ -3,8 +3,9 @@
 ## Dart Playground
 * [DartPad](http://dartpad.dev): Web-based Dart playground
 
-## Repo / LIbs
+## Repo / Libs
 * [PubDev](https://pub.dev) : Official Flutter package rep, think it as Maven repo for Java, NPM for Node, or PIP for Python.
+* [Get](https://pub.dev/packages/get) : Power tools for managing state, dependency injection, and route management.
 
 ## Flutter Widgets
 * https://docs.flutter.dev/development/ui/widgets/material : check entire page and see what widgets are ready for you.
